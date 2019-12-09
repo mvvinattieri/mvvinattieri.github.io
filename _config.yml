@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Maria Veronica Vinattieri"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "PhD Student in Statistics at Bocconi University"
   location         : "Milan, Italy"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
