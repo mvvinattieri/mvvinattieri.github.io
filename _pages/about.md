@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-So Veronica e so di Firénze.
+You can find my curriculum vitae [here](https://www.linkedin.com/in/maria-veronica-vinattieri-aa1a53171/).
+
