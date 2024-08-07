@@ -1,5 +1,4 @@
 ---
-permalink: /
 title: "Welcome to my personal webpage! I am Maria Veronica Vinattieri, Postdoc in Biostatistics With Focus on Statistical Methods in Cancer Epidemiology and Screening at Karolinska Insitutet, Stockholm. Visit my KI webpage here (https://ki.se/en/people/maria-veronica-vinattieri). 
 
 I have proudly acquired a PhD in Statistics at Bocconi University, Milan, in January 2024.  
