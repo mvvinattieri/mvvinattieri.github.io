@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/maria-veronica-vinattieri-aa1a53171/?locale=en_US"
-  orcid            : "https://orcid.org/0009-0006-7738-6126"
+  orcid            : # "https://orcid.org/0009-0006-7738-6126"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
