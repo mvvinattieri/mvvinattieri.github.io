@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Statistics, Bocconi University, 2024
+* Ph.D in Statistics, Bocconi University, 2024 
 * M.S. in Statistical, financial and actuarial sciences, Università di Firenze, 2019
 * B.S. in Statistics, Università di Firenze, 2017
 
