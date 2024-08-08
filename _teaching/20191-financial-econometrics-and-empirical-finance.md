@@ -3,6 +3,7 @@ title: "Financial econometrics and empirical finance (Fall 2021)"
 collection: teaching
 type: "Undergraduate course"
 venue: "Bocconi University"
+date: 2021-09-30
 ---
 
 Description
