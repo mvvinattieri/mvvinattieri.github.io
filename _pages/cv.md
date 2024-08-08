@@ -53,7 +53,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-# Service and leadership
-# ======
+% Service and leadership
+% ======
 
 Look [here](https://mvv-cv.tiiny.site) for an extended version of my CV.
