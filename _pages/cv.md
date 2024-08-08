@@ -18,28 +18,22 @@ Education
 Work experience
 ======
 
-* Autumn 2018 - autumn 2019: Junior university tutor,
+* Autumn 2023: Research Assistant,
+  * Karolinska Insitutet, Stockholm, Sweden
+  * Duties includes: statistical methods and models development, R programming
+
+* Autumn 2020 - Spring 2023: Teaching assistant,
+  * Bocconi University, Milan, Italy
+  * Duties includes: Laboratories in class, student tutoring
+
+* Autumn 2018 - Autumn 2019: Junior university tutor,
   * Università di Firenze, Florence, Italy
-  * Duties includes: Laboratories in class, student tutor
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Duties includes: Laboratories in class, student tutoring
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * IT Skills: (very good) R, LaTeX, (good) Python, Stata, SAS, Github, Matlab, Word, Excel, Power point, (fairly good) Java, SQL.
+  * Language Skills: (mother tongue) Italian, (IELTS Certification C1 level) English, (basics) French, Spanish, Swedish.
 
 Publications
 ======
