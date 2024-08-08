@@ -3,7 +3,7 @@ title: "Statistics (Fall 2022)"
 collection: teaching
 type: "Postgraduate course"
 venue: "Bocconi University"
-date: 2022
+date: 2022-09-30
 ---
 
 Description
