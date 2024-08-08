@@ -7,7 +7,7 @@ venue: "Bocconi University"
 
 Description
 ======
-[30001 - Statistics](https://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=30001&anno=2023&ric_cdl=TR07&IdPag=6625) is a 2nd year course for the students enrolled in the BIEM and BIEF classes at Bocconi University. It introduces the basic of descriptive statistics and inference.
+[30001 - Statistics](https://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=30001&anno=2023&ric_cdl=TR07&IdPag=6625) is a second year course for the students enrolled in the BIEM and BIEF classes at Bocconi University. It introduces the basic of descriptive statistics and inference.
 
 Intended Learning Outcomes (ILO)
 ======
