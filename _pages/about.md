@@ -12,5 +12,5 @@ Welcome to my personal webpage! I am Maria Veronica Vinattieri, Postdoctoral Res
 
 Visit my KI webpage [here](https://ki.se/en/people/maria-veronica-vinattieri).  
 
-Should you need any information, feel free to contact me at: <maria.veronica.vinattieri@ki.se>
+Should you need any information, feel free to contact me at <maria.veronica.vinattieri@ki.se>.
 
