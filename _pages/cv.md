@@ -55,3 +55,5 @@ Teaching
   
 # Service and leadership
 # ======
+
+Look [here](file:///C:/Users/Veronica/Downloads/Curriculum_Vitae.pdf) for an extended version of my CV.
