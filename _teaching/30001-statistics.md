@@ -3,6 +3,7 @@ title: "Statistics (Fall 2020 - Spring 2023)"
 collection: teaching
 type: "Undergraduate course"
 venue: "Bocconi University"
+date: 2023-02-28
 ---
 
 Description
