@@ -3,7 +3,7 @@ title: "Statistics and data analysis preparatory course (Fall 2022)"
 collection: teaching
 type: "Undergraduate course"
 venue: "Bocconi University"
-date: 
+date: 2022-09-30
 ---
 
 Description
