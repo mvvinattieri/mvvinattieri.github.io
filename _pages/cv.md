@@ -56,4 +56,4 @@ Teaching
 # Service and leadership
 # ======
 
-Look [here](file:///C:/Users/Veronica/Downloads/Curriculum_Vitae.pdf) for an extended version of my CV.
+Look [here](https://mvv-cv.tiiny.site) for an extended version of my CV.
