@@ -4,5 +4,5 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 date: 2022-06-01
 venue: 'SIS 2022 Book of Short Papers'
-paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/Sis-2022-4c-low.pdf)'
+paperurl: '[https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/Sis-2022-4c-low.pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/Sis-2022-4c-low.pdf)'
 ---
