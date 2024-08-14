@@ -5,8 +5,6 @@ type: "Undergraduate course"
 venue: "Bocconi University"
 date: 2023-02-28
 ---
-
-## Description
 [30595 - Statistics](https://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=30595&anno=2023&IdPag=6956#classe11) is a 2nd year course for the students enrolled in the CLEACC classes at Bocconi University. It introduces the basic of descriptive statistics and inference.
 
 ## Intended Learning Outcomes (ILO)
