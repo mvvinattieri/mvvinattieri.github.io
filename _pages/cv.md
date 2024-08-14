@@ -52,5 +52,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-Look [here](https://mvv-cv.tiiny.site) for an extended version of my CV.
