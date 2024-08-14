@@ -1,6 +1,6 @@
 ---
 title: "Contributed talk at AICMS 2023"
-collection: talks
+collection: talk
 type: "Talk"
 permalink: /talks/2014-02-01-talk-2
 venue: "Alliance International Conference in Mathematical Sciences (AICMS)"
