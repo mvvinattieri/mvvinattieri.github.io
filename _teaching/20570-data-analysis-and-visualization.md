@@ -5,8 +5,6 @@ type: "Postgraduate course"
 venue: "Bocconi University"
 date: 2023-09-30
 ---
-
-#### Description
 [20570 - Data analysis and visualization](https://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=20570&anno=2023&IdPag=6916) illustrates methods useful to analyse and summarize the most salient features of data sets with respect to both the variables and the cases. The course features hands-on classes, where the application of each techniques is discussed with reference to real datasets.
 
 #### Intended Learning Outcomes (ILO)
