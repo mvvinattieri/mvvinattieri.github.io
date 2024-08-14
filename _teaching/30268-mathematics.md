@@ -5,8 +5,6 @@ type: "Undergraduate course"
 venue: "Bocconi University"
 date: 2023-10-01
 ---
-
-## Description
 [30268 - Mathematics](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30001&anno=2023&ric_cdl=TR07&IdPag=6896#classe21) is a first year course for the students enrolled in the CLEACC classes at Bocconi University. It introduces the basic of descriptive statistics and inference.
 
 ## Intended Learning Outcomes (ILO)
