@@ -5,8 +5,6 @@ type: "Undergraduate course"
 venue: "Bocconi University"
 date: 2023-06-30
 ---
-
-#### Description
 [30025- Quantitative methods for finance](https://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=30025&anno=2023&IdPag=6916) aims to provide students with adequate preparation to be able to profitably address and understand the quantitative modeling used in finance. The use of Matlab software is foreseen to analyze and discuss the models in a concrete way.
 
 #### Intended Learning Outcomes (ILO)
