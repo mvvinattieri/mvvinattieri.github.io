@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/msc-thesis
 date: 2019-07-09
 venue: 'University of Florence'
-paperurl: 'https://sol.unifi.it/tesi/consultazione'
+paperurl: 'https://mvvinattieri.github.io/files/Vinattieri_MSc_thesis.pdf' 
 ---
 
