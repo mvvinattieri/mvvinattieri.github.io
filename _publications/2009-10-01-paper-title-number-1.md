@@ -1,7 +1,7 @@
 ---
-title: "Cure-rate models for detection of invasive breast cancer: a focus on family history"
+title: "Multivariate Shared Frailty Cure-Rate models: a focus on the family history of breast cancer"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-date: 2024-12-31
+date: 2025-05-06
 venue: "Submitted"
 ---
