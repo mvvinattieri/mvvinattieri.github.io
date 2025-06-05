@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Winter 2025: Industry Internship,
+* Winter 2025: Research Internship,
   * SchainResearch, Stockholm, Sweden
   * Duties includes: data analysis, R programming, project management
     
