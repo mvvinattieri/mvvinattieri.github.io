@@ -5,7 +5,7 @@ type: "Undergraduate course"
 venue: "Bocconi University"
 date: 2021-09-30
 ---
-[2019 - Financial econometrics and empirical finance](https://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=20191&anno=2021&IdPag=6354) provides students with the basic techniques for understanding and using probabilistic models and inferential statistical procedures commonly used in finance.
+[20191 - Financial econometrics and empirical finance](https://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=20191&anno=2021&IdPag=6354) provides students with the basic techniques for understanding and using probabilistic models and inferential statistical procedures commonly used in finance.
 
 ## Intended Learning Outcomes (ILO)
 At the end of the course student will be able to:
