@@ -19,7 +19,7 @@ Work experience
 ======
 * Winter 2025: Research Internship,
   * SchainResearch, Stockholm, Sweden
-  * Duties includes: data analysis, R programming, project management
+  * Duties includes: project management, data analysis and programming, scientific writing
     
 * Autumn 2023: Research Assistant,
   * Karolinska Insitutet, Stockholm, Sweden
