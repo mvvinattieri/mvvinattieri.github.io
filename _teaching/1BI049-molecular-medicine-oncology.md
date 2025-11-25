@@ -1,5 +1,5 @@
 ---
-title: "Molecular Medicine - Oncology (Fall 2024)"
+title: "Molecular Medicine - Oncology (Fall 2024 - Fall 2025)"
 collection: teaching
 type: "Undergraduate course"
 venue: "Karolinska Insitutet"
