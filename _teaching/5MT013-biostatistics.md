@@ -1,5 +1,5 @@
 ---
-title: "Biostatistics (Fall 2024)"
+title: "Biostatistics (Fall 2024 - Fall 2025)"
 collection: teaching
 type: "Postgraduate course"
 venue: "Karolinska Insitutet"
