@@ -1,5 +1,5 @@
 ---
-title: 'Contributed talk at SAfJR'
+title: 'Poster at SAfJR'
 collection: talk
 type: "Talk"
 permalink: /talks/2026-03-01-talk-6
