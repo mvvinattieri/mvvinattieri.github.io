@@ -17,8 +17,12 @@ Education
 
 Work experience
 ======
+* Autumn 2023 - Winter 2026: Postdoctoral Researcher,
+  * Karolinska Institutet, Stockholm, Sweden
+  * Duties includes: project management, statistical methods and models development, programming, data analysis, scientific writing
+  
 * Winter 2025: Research Internship,
-  * SchainResearch, Stockholm, Sweden
+  * Ciencia Research, Stockholm, Sweden
   * Duties includes: project management, data analysis and programming, scientific writing
     
 * Autumn 2023: Research Assistant,
