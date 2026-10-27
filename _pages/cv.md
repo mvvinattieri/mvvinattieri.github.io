@@ -12,30 +12,30 @@ redirect_from:
 Education
 ======
 * Ph.D. in Statistics, Bocconi University, 2024 
-* M.S. in Statistical, Financial and Actuarial Sciences, Università di Firenze, 2019
-* B.S. in Statistics, Università di Firenze, 2017
+* M.Sc. in Statistical, Financial and Actuarial Sciences, Università di Firenze, 2019
+* B.Sc. in Statistics, Università di Firenze, 2017
 
 Work experience
 ======
 * Autumn 2023 - Winter 2026: Postdoctoral Researcher,
   * Karolinska Institutet, Stockholm, Sweden
-  * Duties includes: project management, statistical methods and models development, programming, data analysis, scientific writing
+  * Duties include: project management, statistical methods and models development, programming, data analysis, scientific writing
   
 * Winter 2025: Research Internship,
   * Ciencia Research, Stockholm, Sweden
-  * Duties includes: project management, data analysis and programming, scientific writing
+  * Duties include: project management, data analysis and programming, scientific writing
     
 * Autumn 2023: Research Assistant,
   * Karolinska Insitutet, Stockholm, Sweden
-  * Duties includes: statistical methods and models development, R programming
+  * Duties include: statistical methods and models development, R programming
 
 * Autumn 2020 - Spring 2023: Teaching Assistant,
   * Bocconi University, Milan, Italy
-  * Duties includes: Laboratories in class, student tutoring
+  * Duties include: Laboratories in class, student tutoring
 
 * Autumn 2018 - Autumn 2019: Junior University Tutor,
   * Università di Firenze, Florence, Italy
-  * Duties includes: Laboratories in class, student tutoring
+  * Duties include: Laboratories in class, student tutoring
   
 Skills
 ======
